@@ -10,7 +10,7 @@ Este projeto analisa os fatores que levam clientes ao cancelamento de serviço (
 
 ---
 
-## 📌 Principais Indicadores (KPIs)
+## Principais Indicadores (KPIs)
 - **Total de Clientes:** 7.032
 - **Taxa Geral de Churn:** 26.58%
 - **Receita Mensal Perdida (MRR):** ~R$ 139.130,00 / mês
@@ -18,7 +18,7 @@ Este projeto analisa os fatores que levam clientes ao cancelamento de serviço (
 
 ---
 
-## 🔍 Insights Encontrados
+## Insights Encontrados
 1. **Período de Risco (0 a 6 meses):** A maior concentração de cancelamentos ocorre nos primeiros meses de assinatura, apontando necessidade de melhorar o processo de boas-vindas (*onboarding*).
 2. **Tipo de Contrato:** Clientes com contrato mensal (*Month-to-month*) têm propensão ao cancelamento mais de 4x superior aos clientes com contratos de 1 ou 2 anos.
 3. **Serviços de Suporte:** Clientes que não utilizam o serviço de **Suporte Técnico** cancelam com frequência muito maior do que os clientes assistidos.
@@ -26,21 +26,21 @@ Este projeto analisa os fatores que levam clientes ao cancelamento de serviço (
 
 ---
 
-## 💡 Plano de Ação Recomendado
+## Plano de Ação Recomendado
 1. **Campanha de Onboarding:** Acompanhamento proativo de novos clientes nos primeiros 90 dias.
 2. **Incentivo a Planos Anuais:** Descontos progressivos na mensalidade para migração de planos mensais para planos de fidelidade.
 3. **Pacote de Suporte Gratuito:** Oferta de 3 meses gratuitos de suporte técnico para novos assinantes.
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 - **Linguagem:** Python
 - **Manipulação de Dados:** Pandas
 - **Visualização de Dados:** Matplotlib & Seaborn
 
 ---
 
-## 🚀 Como Executar
+## Como Executar
 ```bash
 # 1. Instalar dependências
 pip install pandas matplotlib seaborn
